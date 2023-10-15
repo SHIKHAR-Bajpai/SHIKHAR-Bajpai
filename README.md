@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHIKHAR-Bajpai
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on C projects
+- 🌱 I’m currently learning C/C++ language
+- 💞️ I’m looking to collaborate on C/C++ projects
 - 📫 How to reach me bajpaishikhar120@gmail.com
 
 <!---
