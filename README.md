@@ -8,11 +8,11 @@
 
 
 
-<h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px">hi, I'm Shikhar Bajpai👋</h1>
+<h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)</h1>
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
+
 
 
 ###
