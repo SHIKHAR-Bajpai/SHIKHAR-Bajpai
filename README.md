@@ -11,7 +11,7 @@
 
 
 <p align="center" justify="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40%" width = "90%">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40%" width = "100%">
 </p>
 
 
