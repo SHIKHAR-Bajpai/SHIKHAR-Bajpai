@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on C/C++ projects
 - 📫 How to reach me bajpaishikhar120@gmail.com
 <h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px"></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
 -->
 
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40px" width = "80px">
 </p>
 
 
