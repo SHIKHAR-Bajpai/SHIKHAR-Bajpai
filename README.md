@@ -6,14 +6,12 @@
 <h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px"></h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
 -->
+###
 
 
 
 
-<p align="center" justify="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40%" width = "100%">
-</p>
-
+<p align="center" justify="center"> <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40%" width = "100%"></p>
 
 
 
@@ -58,6 +56,7 @@
 
 ###
 ---
+
 
 
 ###
