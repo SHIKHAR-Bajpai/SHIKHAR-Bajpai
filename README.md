@@ -14,12 +14,9 @@
 
 
 
+
 ---
 
-___
-
-
-***
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrb2t6dDc1MjhzdHppeGU1MHdkd3B2a2lrYjY4YjBiOWp5M3Z6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif"  />
@@ -58,7 +55,11 @@ ___
 </div>
 
 
+
 ###
+
+
+
 ---
 
 
