@@ -10,8 +10,8 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "20%" width = "60%">
+<p align="center" justify="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;" height = "40%" width = "90%">
 </p>
 
 
