@@ -10,6 +10,7 @@
 
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
 </p>
 
