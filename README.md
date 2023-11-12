@@ -53,12 +53,10 @@
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
 <a href = "https://discord.gg/3nRAHxQp">
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/></a>  
-  
-<a href="bajpaishikhar120@gmail.com>
+<a href="bajpaishikhar120@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-
 <a href="https://www.linkedin.com/in/shikhar-bajpai-2a1a5a232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCXjERV8dRC6v5aR8llqlyg%3D%3D"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-<a href=" https://wa.me/918755094484>
+<a href=" https://wa.me/918755094484">
 <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"/></a> 
 </div>
 
