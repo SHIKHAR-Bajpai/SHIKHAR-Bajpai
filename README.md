@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning C/C++ language
 - 💞️ I’m looking to collaborate on C/C++ projects
 - 📫 How to reach me bajpaishikhar120@gmail.com
+<h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px"></h1>
 -->
 
 
 
 
-<h1 align = "center"  color= "lightskyblue" style="font-family:Roboto Mono; font-size: 40px">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+I'm+Shikhar+Bajpai+👋;)](https://git.io/typing-svg)
 
 
 
