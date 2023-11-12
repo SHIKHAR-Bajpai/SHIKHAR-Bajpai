@@ -54,7 +54,7 @@
   </div>
 
   <div class="insta-contact">
-  <div><a href="https://instagram.com/Shikhar__bajpai?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img src="images/instagram.png" width="65px"></a></div>
+  <div><a href="https://instagram.com/Shikhar__bajpai?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img src="[images/instagram.png](https://www.flaticon.com/free-icon/instagram_4138124?term=social+media&page=1&position=13&origin=tag&related_id=4138124)" width="65px"></a></div>
   <div><a href="https://instagram.com/Shikhar__bajpai?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><h5><p>instagram</p></h5></a></div>
   </div>
   
