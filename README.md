@@ -5,7 +5,7 @@
 - 📫 How to reach me bajpaishikhar120@gmail.com
 -->
 
-<h1 align = "center" style="font-family:'Roboto Mono', monospace;">Hi, I'm Shikhar Bajpai</h1>
+<h1 align = "center" size= "40px" color= "lightskyblue" style="font-family:Roboto Mono;">Hi, I'm Shikhar Bajpai👋</h1>
 
 ###
 
