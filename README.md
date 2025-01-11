@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=369DFF&width=435&lines=hi%2C+I'm+Shikhar+Bajpai%F0%9F%91%8B)](https://git.io/typing-svg)
 
 # 💻Tech Stack
-<img align="right" height="280" style="margin-left:10px" src="https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif?cid=790b76116iwvapvz3vp86zveractbnqqpm4nqipufjwnallu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="30%" style="margin-left:10px" src="https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif?cid=790b76116iwvapvz3vp86zveractbnqqpm4nqipufjwnallu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align="justify">
   
