@@ -7,6 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=369DFF&width=435&lines=hi%2C+I'm+Shikhar+Bajpai%F0%9F%91%8B)](https://git.io/typing-svg)
 
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/yzNyYpwhx6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Shikhar__bajpai/?utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shikhar--bajpai/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/shikhar__bajpai/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/25305527/shikhar-bajpai) 
+
+
 # 💻Tech Stack
 <img align="right" height="350px" src="https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif?cid=790b76116iwvapvz3vp86zveractbnqqpm4nqipufjwnallu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
